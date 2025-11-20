@@ -18,6 +18,8 @@ For complete development guide:
 
 [📚[Custom firmware guide](https://newworldproject.feishu.cn/docx/PQ75dtZiNomx9zxXED1caAZxnRc)]
 
+[💬[Discord](https://discord.gg/GvCKVegSbr)]
+
 For translation the page has it built-in, just create lark account and at the top there are 3 dots press that and translate it to your prepared language instead of translating it word by word.
 
 ## Contributing
@@ -59,6 +61,8 @@ For questions or suggestions, please contact us through:
 
 完整开发指南：
 [📚[自定义固件指南](https://newworldproject.feishu.cn/docx/PQ75dtZiNomx9zxXED1caAZxnRc)]
+
+[💬[Discord](https://discord.gg/GvCKVegSbr)]
 
 页面内置翻译功能，只需创建飞书账号，点击顶部三个点即可将文档翻译成您需要的语言，无需逐字翻译。
 
