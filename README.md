@@ -16,7 +16,8 @@ This project is a customized development implementation based on PCILeech FPGA, 
 
 For complete development guide:
 
-[📚([ View Complete Development Documentation](https://newworldproject.feishu.cn/docx/PQ75dtZiNomx9zxXED1caAZxnRc))]
+[📚[Custom firmware guide](https://newworldproject.feishu.cn/docx/PQ75dtZiNomx9zxXED1caAZxnRc)]
+
 For translation the page has it built-in, just create lark account and at the top there are 3 dots press that and translate it to your prepared language instead of translating it word by word.
 
 ## Contributing
@@ -37,3 +38,45 @@ For questions or suggestions, please contact us through:
 ---
 
 **Note**: Please comply with relevant laws and regulations when using this tool. Use only for authorized testing and research purposes.
+
+---
+
+# PCILeech FPGA 自定义开发指南
+
+## 概述
+
+本项目是基于PCILeech FPGA的定制化开发实现，提供硬件加速的内存访问和直接内存访问（DMA）功能。通过FPGA硬件实现，能够进行高性能内存操作，支持包括数字取证、系统调试和安全研究在内的多种应用场景。
+
+## 功能特性
+
+- 🚀 **硬件加速内存访问** - 使用FPGA实现高速DMA操作
+- 🔧 **灵活配置** - 支持自定义比特流和硬件配置
+- 📊 **实时内存分析** - 底层内存监控和分析能力
+- 🔒 **安全研究** - 用于系统安全评估和漏洞研究
+- 💻 **多平台支持** - 兼容多种硬件平台和操作系统
+
+## 详细文档
+
+完整开发指南：
+[📚[自定义固件指南](https://newworldproject.feishu.cn/docx/PQ75dtZiNomx9zxXED1caAZxnRc)]
+
+页面内置翻译功能，只需创建飞书账号，点击顶部三个点即可将文档翻译成您需要的语言，无需逐字翻译。
+
+## 贡献指南
+
+我们欢迎社区贡献！请阅读我们的贡献指南并提交Pull Request。
+
+## 许可证
+
+本项目采用MIT许可证 - 详见LICENSE文件。
+
+## 技术支持
+
+如有问题或建议，请通过以下方式联系：
+- 提交Issue
+- 项目讨论区
+- 电子邮件支持
+
+---
+
+**注意**：使用本工具请遵守相关法律法规，仅用于授权的测试和研究目的。
