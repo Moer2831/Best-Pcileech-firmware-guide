@@ -14,9 +14,10 @@ This project is a customized development implementation based on PCILeech FPGA, 
 
 ## Detailed Documentation
 
-For complete development guide, API documentation, and hardware configuration instructions, please refer to our detailed documentation:
+For complete development guide:
 
 [📚([ View Complete Development Documentation](https://newworldproject.feishu.cn/docx/PQ75dtZiNomx9zxXED1caAZxnRc))]
+For translation the page has it built-in, just create lark account and at the top there are 3 dots press that and translate it to your prepared language instead of translating it word by word.
 
 ## Contributing
 
