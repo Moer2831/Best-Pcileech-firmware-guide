@@ -16,7 +16,7 @@ This project is a customized development implementation based on PCILeech FPGA, 
 
 For complete development guide, API documentation, and hardware configuration instructions, please refer to our detailed documentation:
 
-[📚 View Complete Development Documentation]([Insert your link here](https://newworldproject.feishu.cn/docx/PQ75dtZiNomx9zxXED1caAZxnRc))
+[📚([ View Complete Development Documentation](https://newworldproject.feishu.cn/docx/PQ75dtZiNomx9zxXED1caAZxnRc))]
 
 ## Contributing
 
