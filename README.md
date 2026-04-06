@@ -35,7 +35,7 @@ For complete development guide:
 
 [📚[Custom firmware guide](https://newworldproject.feishu.cn/docx/PQ75dtZiNomx9zxXED1caAZxnRc)]
 
-[💬[Discord](https://discord.gg/GvCKVegSbr)]
+[💬[Discord](https://discord.gg/5QtF4AAbhk)]
 
 For translation the page has it built-in, just create lark account and at the top there are 3 dots press that and translate it to your prepared language instead of translating it word by word.
 
