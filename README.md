@@ -6,7 +6,7 @@ This project is a customized development implementation based on PCILeech FPGA, 
 
 ## Features
  
-- 🚀 **Hardware-Accelerated Memory Access** - High-speed DMA operations using FPGA
+- 🚀 **Hardware-Accelerated Memory Access** - High-speed DMA operations using FPGA 
 - 📈 **PCIe Device Initialization Flowchart** - Complete device initialization process analysis
 - 🕵️ **Simulating Shadow Space of Acquisition Devices** - Simulation techniques for device shadow space
 - 🛠️ **How to Generate Projects in Vivado** - Detailed steps for Vivado project creation
